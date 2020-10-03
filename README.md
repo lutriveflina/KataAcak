@@ -1,4 +1,4 @@
-# KataAcak
+# penggunaan repetition and jump operation.
 
     package com.ol.binus;
     import java.util.Scanner;
